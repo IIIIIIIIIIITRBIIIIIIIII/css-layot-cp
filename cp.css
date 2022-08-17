@@ -1,0 +1,206 @@
+#cube {
+    width: 300px;
+    height: 35px;
+}
+
+.ice {
+    display: flex;
+    width: 80%;
+    margin: 0% auto;
+justify-content: space-between;
+    background-color: white;
+    padding: 15px;
+}
+header nav ul li a:hover{
+    color:#47c8b7 ;
+}
+
+
+
+.pac {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #47c8b7;
+   }
+
+.pac:hover {
+    color: #47c8b7;
+}
+
+#eazy {
+    color:#47c8b7
+}
+
+#snoop {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+#compton{
+    margin-right: 20px;
+}
+
+#McRen {
+    margin-left: 20px;
+}
+
+#dre {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+   #DMX {
+    margin: 20px;
+    width: 40px;
+   }
+
+   .eminem {
+    margin-top: 100px;
+    width: 70%;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+   }
+
+   .acdc {
+    color: aliceblue;
+    background-color: #47c8b7;
+    margin-right: 20px;
+    border-radius: 20px;
+   }
+
+   .jay {
+    background-color: rgb(83, 83, 204);
+    color: aliceblue;
+    margin-right: 20px;
+    border-radius: 20px;
+   }
+
+   .westside {
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20px;
+   }
+
+   #shady {
+   color: #47c8b7;
+   margin-left: 220px;
+   width: 150px;
+   }
+
+   #biggie {
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+   }
+
+   #ff {
+    width: 200px;
+    
+   }
+
+   #gg {
+    width: 200px;
+    
+   }
+
+   #hh {
+    width: 200px;
+    
+   }
+
+   #qq {
+    width: 200px;
+    
+   }
+
+   #uu {
+    display: flex;
+    flex-direction: row;
+   }
+
+   #dis:hover {
+    color: #47c8b7;
+   }
+
+   #cod:hover {
+    color:#47c8b7;
+   }
+
+   #gta:hover {
+    color: #47c8b7;
+   }
+
+   #ins:hover {
+    color: #47c8b7;
+   }
+
+   #ma{
+    margin-top: 25px;
+    margin-right: 300px;
+   }
+
+#doc {
+    background-color: #47c8b7;
+    color: white;
+    border: none;
+}
+
+#rap {
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+#gangsta {
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.mg {
+    display: flex;
+    flex-direction: column;
+}
+
+#pop{
+    background-color: rgb(83, 83, 204);
+    color: white;
+    border: none;
+}
+
+.cruisin {
+    background-color: rgb(204, 255, 238);
+    height: 600px;
+    position: relative; 
+}
+
+#frank {
+    color:#47c8b7;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+.micheal {
+     margin-bottom: 500px;
+     margin-left: 100px;
+     position: absolute;
+     bottom: -650px;
+     overflow: hidden;
+} 
+
+.gear {
+    margin-top: 50px;
+}
+
+#gtr {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
